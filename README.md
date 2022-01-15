@@ -1,3 +1,2 @@
-# e-commerce-website
-https://abidulislamalvy.github.io/e-commerce-website/#popular
 # E-COMMERCE-WEB
+https://abidulislamalvy.github.io/E-COMMERCE-WEB/index.html
